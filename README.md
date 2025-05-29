@@ -1,9 +1,11 @@
 Hi, I’m @nolziodev
 
 I’m interested in: Music, Band, Programing
+<br> 
 I’m currently learning: Python, HTML, CSS, Javascript
 
 How to reach me: nolziodev@gmail
+<br> 
 Pronouns: They/Them
 
 <!---
